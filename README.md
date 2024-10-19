@@ -4,12 +4,12 @@
 
 ### Habilidades
 
-- Desenvolvimento web com React JS
-- HTML5, CSS3, JavaScript, Sass, Tailwind
+- Desenvolvimento web com React JS | Node JS | Express
+- HTML5, CSS3, JavaScript, SCSS, Tailwind
 - Versionamento com Git
 
 ### Contato
 
 📧 Email: ryanqueirozdev44@gmail.com
 
-💼 LinkedIn: [Ryan Queiroz](https://www.linkedin.com/in/ryan-queiroz-4305212ba/)
+💼 LinkedIn: [Ryan Queiroz](https://www.linkedin.com/in/ryanqueirozdev/)
